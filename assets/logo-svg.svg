@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Pétalo 1 -->
+  <path d="M16 2 C22 2, 22 14, 16 14 C10 14, 10 2, 16 2 Z" fill="#2094a8" transform="rotate(-45 16 14)"/>
+  <!-- Pétalo 2 -->
+  <path d="M16 2 C22 2, 22 14, 16 14 C10 14, 10 2, 16 2 Z" fill="#2094a8" transform="rotate(45 16 14)"/>
+  <!-- Pétalo 3 -->
+  <path d="M16 2 C22 2, 22 14, 16 14 C10 14, 10 2, 16 2 Z" fill="#2094a8" transform="rotate(135 16 14)"/>
+  <!-- Pétalo 4 -->
+  <path d="M16 2 C22 2, 22 14, 16 14 C10 14, 10 2, 16 2 Z" fill="#2094a8" transform="rotate(-135 16 14)"/>
+  <!-- Centro de la flor -->
+  <circle cx="16" cy="16" r="5" fill="#f4f1ea" stroke="#2094a8" stroke-width="2"/>
+</svg>
